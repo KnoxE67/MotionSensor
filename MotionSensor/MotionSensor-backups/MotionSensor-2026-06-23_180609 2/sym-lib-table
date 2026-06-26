@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Light") (type "KiCad") (uri "${KIPRJMOD}/Files/Symbols/SK6812MINI-E.kicad_sym") (options "") (descr ""))
+	(lib (name "Button") (type "KiCad") (uri "${KIPRJMOD}/Files/Symbols/TL3301AF160QG.kicad_sym") (options "") (descr ""))
+	(lib (name "Motion Sensor") (type "KiCad") (uri "${KIPRJMOD}/Files/Symbols/Seeed_Studio_XIAO_Series.kicad_sym") (options "") (descr ""))
+)
